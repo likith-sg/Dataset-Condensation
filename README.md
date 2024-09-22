@@ -59,6 +59,13 @@ MPS2U was designed to enhance training efficiency, accuracy, and versatility acr
    Developed improved input handling functions to preprocess data for both ConvNet and Mutual Info models.
 
 ## Results
+## Synthetic Dataset Visualizations
+
+![MPS2U Dataset Visualization](https://raw.githubusercontent.com/likith-sg/Dataset-Condensation/main/MPS2U_DC.png)
+*Synthetic generated dataset visualization of MNIST, Fashion-MNIST, CIFAR-10, and CIFAR-100.*
+
+![Mutual Info Dataset Visualization](https://raw.githubusercontent.com/likith-sg/Dataset-Condensation/main/MPS2_MI.png)
+*Synthetic generated dataset visualization of MNIST, Fashion-MNIST, and CIFAR-10.*
 
 
 ### Performance Metrics
