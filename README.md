@@ -39,7 +39,7 @@ MPS2U was designed to enhance training efficiency, accuracy, and versatility acr
 3. **Robust Input Handling**:  
    Developed an improved input handling function to preprocess data for the ConvNet.
 
-### Mutual Info Methodology
+## Mutual Info Methodology
 
 1. **Mutual Information Optimization**:  
    Adapted from MPS2, this approach uses mutual information to select the best 1000 samples, significantly enhancing data quality for training.
