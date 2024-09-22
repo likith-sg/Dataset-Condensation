@@ -1,5 +1,5 @@
 # Dataset-Condensation
-# MPS2U (My Proposed Solution 2 - Updated)
+# MPS2U (My Proposed Solution 2 - Updated) and Mutual Information
 
 ## Introduction
 
@@ -64,10 +64,10 @@ MPS2U was designed to enhance training efficiency, accuracy, and versatility acr
 
 | Metric                       | MPS2U       | Mutual Info   | MPS2         | Gradient Matching |
 |------------------------------|-------------|---------------|--------------|-------------------|
-| MNIST Test Accuracy          | 95%         | 88%           | 75%          | 97%               |
+| MNIST Test Accuracy          | 95%         | 88%           | 75%          | 98%               |
 | Fashion-MNIST Test Accuracy   | 77%         | 77%           | 58%          | 83%               |
-| CIFAR-10 Test Accuracy       | 31%         | 23%           | 31%          | 51%               |
-| CIFAR-100 Test Accuracy      | 12%         | -             | -            | -                 |
+| CIFAR-10 Test Accuracy       | 31%         | 23%           | 31%          | 53%               |
+| CIFAR-100 Test Accuracy      | 12%         | -             | -            | -               |
 | Average Training Time        | 5 minutes   | 10 minutes    | 20 minutes   | 4 hours           |
 | Computational Load           | Low (Integrated GPU) | High   | Low (Integrated GPU) | High              |
 
