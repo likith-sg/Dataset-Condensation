@@ -81,3 +81,6 @@ MPS2U was designed to enhance training efficiency, accuracy, and versatility acr
 | Average Training Time        | 5 minutes   | 10 minutes    | 20 minutes   | 4 hours           |
 | Computational Load           | Low (Integrated GPU) | High   | Low (Integrated GPU) | High              |
 
+##Code Links: 
+[Gradient Matching Code](https://github.com/likith-sg/Gradient-Matching)
+[MPS2 Code](https://github.com/likith-sg/Dataset-Distillation-Method)
