@@ -70,7 +70,7 @@ MPS2U was designed to enhance training efficiency, accuracy, and versatility acr
 
 
 ### Performance Metrics
-## NOTE : We have used Gradient Matching and MPS2 as the benchmark algorithm for comparisons, with all developed algorithms evaluated against it.
+## NOTE : We have used Gradient Matching and MPS2 as the benchmark algorithms for comparison, with all developed algorithms evaluated against it.
 
 | Metric                       | MPS2U       | Mutual Info   | MPS2         | Gradient Matching |
 |------------------------------|-------------|---------------|--------------|-------------------|
