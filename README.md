@@ -1,5 +1,5 @@
 # Dataset-Condensation
-# MPS2U (My Proposed Solution 2 - Updated) and Mutual Information
+# MPS2U (My Proposed Solution 2 - Updated) and Mutual Information **[Report](https://raw.githubusercontent.com/likith-sg/Dataset-Condensation/main/Internship-Report.pdf)**
 
 ## Introduction
 
