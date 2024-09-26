@@ -62,10 +62,10 @@ MPS2U was designed to enhance training efficiency, accuracy, and versatility acr
 ## Synthetic Dataset Visualizations
 
 <img src="https://raw.githubusercontent.com/likith-sg/Dataset-Condensation/main/MPS2U_DC.png" alt="MPS2U Dataset Visualization" width="600"/>
-*Synthetic generated dataset visualization of MNIST, Fashion-MNIST, CIFAR-10, and CIFAR-100.*
+*Synthetic generated dataset visualization of MNIST, Fashion-MNIST, CIFAR-10, and CIFAR-100.(MPS2U)*
 
 <img src="https://raw.githubusercontent.com/likith-sg/Dataset-Condensation/main/MPS2_MI.png" alt="Mutual Info Dataset Visualization" width="600"/>
-*Synthetic generated dataset visualization of MNIST, Fashion-MNIST, and CIFAR-10.*
+*Synthetic generated dataset visualization of MNIST, Fashion-MNIST, and CIFAR-10.(Mutual Info)*
 
 
 
