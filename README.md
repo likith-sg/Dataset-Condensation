@@ -1,5 +1,5 @@
 # Dataset Condensation
-# MPS2U (Memory Prediction Score to Update) and Mutual Information     [SEE Internship Project Report](https://raw.githubusercontent.com/likith-sg/Dataset-Condensation/main/SEE%20Internship%20Project%20Report%20.pdf)
+# MPS2U (Memory Prediction Score to Update) and Mutual Information     [Report](https://raw.githubusercontent.com/likith-sg/Dataset-Condensation/main/SEE%20Internship%20Project%20Report%20.pdf)
 
 
 ## Introduction
